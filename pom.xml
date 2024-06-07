@@ -4,8 +4,8 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>coba1</groupId>
-  <artifactId>manko1</artifactId>
+  <groupId>tubes</groupId>
+  <artifactId>mkepl</artifactId>
   <version>1.1.0</version>
 
   <name>manko</name>
@@ -81,7 +81,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/vikhanmuhammad/CobaLagiDeploy</url>
+      <url>https://maven.pkg.github.com/vikhanmuhammad/PraktikIntegration</url>
     </repository>
   </distributionManagement>
   
