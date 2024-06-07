@@ -17,8 +17,8 @@ public class AppTest
     @Test
     public void testTambahMenit() {
         LocalDateTime waktu = LocalDateTime.of(2023, 6, 1, 12, 0, 0);
-        String expected = "2023-06-01 12:10:00";
-        String actual = TanggalHelper.tambahMenit(waktu, 10);
+        String expected = "2023-06-01 12:20:00";
+        String actual = TanggalHelper.tambahMenit(waktu, 20);
         assertEquals(expected, actual);
     }
 
